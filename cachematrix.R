@@ -4,7 +4,7 @@
 
 
 ## A function to store a matrix & its inverse 
-## It methods to set,get and retrieve the matrix & its inverse 
+## It has methods to set,get and retrieve the matrix & its inverse 
 ## The function also checks if the input matrix is a square matrix (so that it has a valid inverse)
 
 makeCacheMatrix <- function(x = matrix()) {
